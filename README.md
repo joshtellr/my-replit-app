@@ -51,29 +51,31 @@ Frontend runs on http://localhost:5173
 
 This app is hosted in a Proxmox LXC and served over the internet using a Cloudflare Tunnel.
 
-Quick steps:
-	•	Pull latest code: git pull
-	•	Install/update deps: npm install
-	•	Run dev server: npm run dev
+### Quick Steps
+
+```bash
+git pull
+npm install
+npm run dev
 
 ⸻
 
-✍️ To-Do
-	•	Improve homepage layout
-	•	Add project cards + filtering
-	•	Mobile responsiveness tweaks
-	•	Deploy using pm2 or systemd
-	•	Add resume download link
+## 📝 To-Do
 
+- [ ] Improve homepage layout
+- [ ] Add project cards + filtering
+- [ ] Mobile responsiveness tweaks
+- [ ] Deploy using pm2 or systemd
+- [ ] Add resume download link
 ⸻
 
-📸 Screenshots
+## 📸 Screenshots
 
 Will add screenshots of the site here later!
 
 ⸻
 
-📜 License
+## 📜 License
 
 MIT
 
