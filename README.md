@@ -45,7 +45,7 @@ npm run dev
 Server runs on http://localhost:5000
 Frontend runs on http://localhost:5173
 
-⸻
+---
 
 🌐 Deployment
 
@@ -58,7 +58,7 @@ git pull
 npm install
 npm run dev
 
-⸻
+---
 
 ## 📝 To-Do
 
@@ -67,16 +67,15 @@ npm run dev
 - [ ] Mobile responsiveness tweaks
 - [ ] Deploy using pm2 or systemd
 - [ ] Add resume download link
-⸻
+
+---
 
 ## 📸 Screenshots
 
 Will add screenshots of the site here later!
 
-⸻
+---
 
 ## 📜 License
 
 MIT
-
----
